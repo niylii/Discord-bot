@@ -1,4 +1,5 @@
-> [!IMPORTATNT]
+> [!IMPORTANT]
+> 
 > This bot will have a lot of Troubleshooting, since it's not hosted, so it might not respond all the times.
 
 # Discord-bot
@@ -25,8 +26,8 @@ A simple Silly Discord bot built using `discord.py` that responds to commands an
 1. Clone this repository or download the code.
 2. Install the required dependencies:
    ```bash
-   pip install discord.py
-```
+   pip install discord.py```
+   
 ### 2.Set up the bot
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications).
 2. Create a new application and add a bot then copy the bot token.
