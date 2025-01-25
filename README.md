@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 > 
-> This bot will have a lot of Troubleshooting, since it's not hosted, so it might not respond all the times.
+> the bot will have a lot of Troubleshooting, if it's not hosted, so it might not respond all the times.
 
 # Discord-bot
 
