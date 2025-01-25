@@ -49,3 +49,7 @@ A simple Silly Discord bot built using `discord.py` that responds to commands an
 
 ### Messages
 - The bot will respond to every message with `yes ma'am/sir`.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
