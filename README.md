@@ -1,4 +1,4 @@
-# Discord Bot README
+# Rei Discord Bot
 
 ## Overview
 
